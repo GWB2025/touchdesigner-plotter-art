@@ -1,0 +1,19 @@
+{
+  "application": "SVG Plotter",
+  "version": "1.8.1",
+  "date": "2026-11-02",
+  "source": "SVG exported by the running TouchDesigner project",
+  "filename": "nested-currents-seed-42-a4-carrier.svg",
+  "page_mm": [210, 297],
+  "placement": "Keep original size and position",
+  "rotation_degrees": 0,
+  "treatment": "Outline paths",
+  "checked_commands": 26202,
+  "reported_drawing_dimensions_mm": [124.4, 81.1],
+  "automatically_selected_pens": [
+    "Pigma Micron Orange 05 — 85511 35781",
+    "Pigma Micron Light Brown 05 — 85511 35783",
+    "Pigma Micron Dark Brown 05 — 85511 37741"
+  ],
+  "physical_plot_performed": false
+}

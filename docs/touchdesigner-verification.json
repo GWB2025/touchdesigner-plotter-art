@@ -1,0 +1,24 @@
+{
+  "touchdesigner_version": "099",
+  "touchdesigner_build": "2025.33230",
+  "checks": {
+    "sop_coordinates_match_export": true,
+    "seed_change_and_restore": true,
+    "monochrome_geometry": true,
+    "native_svg_export": true,
+    "native_carrier_export": true,
+    "recursive_operator_errors": [],
+    "reopened_standalone_project": true,
+    "next_seed_ui_button": true,
+    "export_ui_button_after_reopen": true
+  },
+  "svg": "nested-currents-seed-42.svg",
+  "carrier_svg": "nested-currents-seed-42-a4-carrier.svg",
+  "statistics": {
+    "paths": 120,
+    "segments": 480,
+    "pen_colours": 3,
+    "drawing_length_mm": 3643.92
+  },
+  "geometry_sha256": "0a133b81c87de07cbf7402559447497be03550cc090e53ab0d05cc4b3c7b3611"
+}

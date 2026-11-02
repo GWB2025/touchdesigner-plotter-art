@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="148mm" height="105mm" viewBox="0 0 148 105" version="1.1">
+  <title>Nested Currents</title>
+  <desc>Seeded nested squares. Separate pen strokes; physical dimensions in mm. Import at actual size. No background, border or registration marks are plotted.</desc>
+  <metadata>{"colour_note": "Screen colours are illustrative, not measured ink matches.", "generator": "TouchDesigner Plotter Art", "generator_version": "0.1.0", "geometry_sha256": "78907e9e2408d96850f5f501ec947f3d64cb6d8a7bc8cac749fd1b748930f313", "pens": [{"colour": "#222222", "name": "Black"}], "placement": {"offset_mm": [0, 0], "page_mm": [148, 105]}, "settings": {"columns": 3, "height_mm": 105, "jitter": 0.55, "margin_mm": 8, "palette": "black", "rings": 3, "rotation_deg": 28, "rows": 2, "seed": 42, "stroke_mm": 0.45, "width_mm": 148}, "statistics": {"drawing_length_mm": 1093.18, "paths": 18, "pen_colours": 1, "segments": 72}, "title": "Nested Currents"}</metadata>
+  <g id="pen-1-black" inkscape:groupmode="layer" inkscape:label="1: Black" fill="none" stroke="#222222">
+    <path d="M 19.8245 15.8897 L 44.3603 20.0745 L 40.1755 44.6103 L 15.6397 40.4255 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 22.5275 22.2148 L 37.7104 22.1827 L 37.7425 37.3657 L 22.5595 37.3977 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 27.1012 27.1052 L 32.4952 26.1617 L 33.4386 31.5557 L 28.0447 32.4991 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 61.0843 18.2941 L 85.9559 17.3343 L 86.9157 42.2059 L 62.0441 43.1657 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 65.2239 24.5754 L 80.0746 21.4161 L 83.2339 36.2667 L 68.3832 39.4260 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 70.8987 29.0674 L 75.9825 27.0329 L 78.0170 32.1168 L 72.9331 34.1512 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 107.2802 16.2913 L 131.9587 19.5302 L 128.7198 44.2087 L 104.0413 40.9698 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 112.9300 20.2913 L 127.4280 24.8005 L 122.9188 39.2984 L 108.4209 34.7892 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 116.6573 25.6556 L 121.5329 28.1481 L 119.0404 33.0238 L 114.1647 30.5313 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 15.6190 64.6038 L 40.1462 60.3690 L 44.3810 84.8962 L 19.8538 89.1310 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 21.9507 66.8664 L 37.1337 66.8675 L 37.1326 82.0505 L 21.9496 82.0494 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 26.8517 71.0028 L 32.2475 71.9352 L 31.3151 77.3311 L 25.9192 76.3987 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 61.2463 62.6214 L 86.1286 61.9963 L 86.7537 86.8786 L 61.8714 87.5037 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 64.8039 68.8701 L 79.6957 65.9109 L 82.6549 80.8027 L 67.7631 83.7619 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 69.9205 73.3504 L 75.0312 71.3845 L 76.9971 76.4953 L 71.8863 78.4611 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 104.5838 63.3586 L 129.3914 61.3338 L 131.4162 86.1414 L 106.6086 88.1662 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 109.0488 69.4874 L 123.7504 65.6946 L 127.5433 80.3962 L 112.8416 84.1890 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 114.9708 73.7628 L 119.9629 71.5124 L 122.2133 76.5044 L 117.2213 78.7548 Z" fill="none" stroke="#222222" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+{
+  "colour_note": "Screen colours are illustrative, not measured ink matches.",
+  "generator": "TouchDesigner Plotter Art",
+  "generator_version": "0.1.0",
+  "geometry_sha256": "bfb4be3e856cd4f7b11345ed2ccfd0d7437b2a126f76edaaa0dd5a63a078c035",
+  "pens": [
+    {
+      "colour": "#df7b28",
+      "name": "Orange"
+    },
+    {
+      "colour": "#a97850",
+      "name": "Light Brown"
+    },
+    {
+      "colour": "#493126",
+      "name": "Dark Brown"
+    }
+  ],
+  "placement": {
+    "offset_mm": [
+      0,
+      0
+    ],
+    "page_mm": [
+      148,
+      105
+    ]
+  },
+  "settings": {
+    "columns": 6,
+    "height_mm": 105,
+    "jitter": 0.55,
+    "margin_mm": 8,
+    "palette": "earth",
+    "rings": 5,
+    "rotation_deg": 28,
+    "rows": 4,
+    "seed": 2026,
+    "stroke_mm": 0.45,
+    "width_mm": 148
+  },
+  "statistics": {
+    "drawing_length_mm": 3643.92,
+    "paths": 120,
+    "pen_colours": 3,
+    "segments": 480
+  },
+  "title": "Nested Currents"
+}

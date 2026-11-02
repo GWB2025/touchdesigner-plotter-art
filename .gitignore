@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+exports/
+Backup/
+*.toe.bkp*
+*.tox.bkp*
+*.[0-9]*.toe
+Nested_Currents.toe
+dist/
